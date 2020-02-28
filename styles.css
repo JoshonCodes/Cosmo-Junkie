@@ -4,6 +4,10 @@
   --secondary: #0a0b5b;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* reset */
 body,
 p,
